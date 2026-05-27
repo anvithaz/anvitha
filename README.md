@@ -1,4 +1,4 @@
-# hi, i'm Anvitha 
+# Hi, I'm Anvitha 
 
 Industrial Engineering & Management student at BMS College of Engineering, Bengaluru.  
 I build operational systems and data tools — and think in workflows, constraints, and pipelines.
